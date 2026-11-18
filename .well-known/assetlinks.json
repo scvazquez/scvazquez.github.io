@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.outsideplans.app",
+      "sha256_cert_fingerprints": [
+        "DB:1B:F4:B2:F9:31:DC:D2:04:B6:81:7A:B1:60:97:54:85:95:4E:E6:DB:58:CE:93:B9:65:48:51:DF:69:08:A5"
+      ]
+    }
+  }
+]
